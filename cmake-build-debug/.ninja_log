@@ -1,0 +1,7 @@
+# ninja log v5
+0	415	1666772440001424845	libsponge/CMakeFiles/sponge.dir/byte_stream.cc.o	46e3b02bc8ee1bfa
+0	595	1666772440181747695	libsponge/CMakeFiles/sponge.dir/util/file_descriptor.cc.o	1aa9d8fd3aad98b6
+0	643	1666772440230295078	libsponge/CMakeFiles/sponge.dir/util/eventloop.cc.o	91d0773073f43902
+0	660	1666772440246971860	libsponge/CMakeFiles/sponge.dir/util/buffer.cc.o	730f73ec9c8df3e6
+4	552	1666772924005228956	libsponge/CMakeFiles/sponge.dir/util/util.cc.o	91724fbf08e84cea
+5	575	1666772924028339008	apps/CMakeFiles/webget.dir/webget.cc.o	6896ad47a66e6234
