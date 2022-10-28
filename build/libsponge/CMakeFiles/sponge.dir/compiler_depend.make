@@ -158,7 +158,12 @@ libsponge/CMakeFiles/sponge.dir/byte_stream.cc.o: ../libsponge/byte_stream.cc \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/aarch64-linux-gnu/bits/types/error_t.h \
   /usr/include/c++/11/bits/charconv.h \
-  /usr/include/c++/11/bits/basic_string.tcc
+  /usr/include/c++/11/bits/basic_string.tcc \
+  /usr/include/c++/11/vector \
+  /usr/include/c++/11/bits/stl_uninitialized.h \
+  /usr/include/c++/11/bits/stl_vector.h \
+  /usr/include/c++/11/bits/stl_bvector.h \
+  /usr/include/c++/11/bits/vector.tcc
 
 libsponge/CMakeFiles/sponge.dir/util/address.cc.o: ../libsponge/util/address.cc \
   /usr/include/stdc-predef.h \
@@ -2952,6 +2957,18 @@ libsponge/CMakeFiles/sponge.dir/util/util.cc.o: ../libsponge/util/util.cc \
 
 /usr/include/c++/11/bits/basic_string.tcc:
 
+/usr/include/c++/11/vector:
+
+/usr/include/c++/11/bits/stl_uninitialized.h:
+
+/usr/include/c++/11/bits/stl_bvector.h:
+
+../libsponge/util/tun.cc:
+
+/usr/include/aarch64-linux-gnu/bits/in.h:
+
+/usr/include/c++/11/bits/vector.tcc:
+
 /usr/include/aarch64-linux-gnu/sys/socket.h:
 
 /usr/include/aarch64-linux-gnu/c++/11/bits/c++config.h:
@@ -2989,12 +3006,6 @@ libsponge/CMakeFiles/sponge.dir/util/util.cc.o: ../libsponge/util/util.cc \
 /usr/include/aarch64-linux-gnu/bits/struct_mutex.h:
 
 /usr/include/aarch64-linux-gnu/bits/socket2.h:
-
-../libsponge/util/tun.cc:
-
-/usr/include/aarch64-linux-gnu/bits/in.h:
-
-/usr/include/c++/11/bits/stl_bvector.h:
 
 /usr/include/rpc/netdb.h:
 
@@ -3075,12 +3086,6 @@ libsponge/CMakeFiles/sponge.dir/util/util.cc.o: ../libsponge/util/util.cc \
 /usr/include/c++/11/bits/node_handle.h:
 
 /usr/include/c++/11/bits/unordered_map.h:
-
-/usr/include/c++/11/vector:
-
-/usr/include/c++/11/bits/stl_uninitialized.h:
-
-/usr/include/c++/11/bits/vector.tcc:
 
 /usr/include/c++/11/bits/algorithmfwd.h:
 
